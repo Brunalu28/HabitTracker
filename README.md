@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat e [Brunalu28](https://github.com/Brunalu28)
+Feito com ♥ by Rocketseat e [Brunalu28](https://github.com/Brunalu28) 🚀
